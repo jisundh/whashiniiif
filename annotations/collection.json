@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://jisundh.github.io/whashiniiif/annotations/4f47c4052d173f1ccb97494a56a17fa9.json" ],
+  "@id" : "https://jisundh.github.io/whashiniiif/annotations/collection.json",
+  "label" : "All annotations loaded in jisundh/whashiniiif project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

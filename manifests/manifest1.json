@@ -1,0 +1,57 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://jisundh.github.io/whashiniiif/manifests/manifest1.json",
+  "@type" : "sc:Manifest",
+  "label" : "｢京畿道副業品展覽會｣, 『京城日報』 1932. 9. 22. 석(7)\n\n",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "Copyright © National Library of Korea All Rights Reserved",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://f71b1793-c9f5-44f4-be44-c014b21b1d7d",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://caa07f58-491b-466f-9646-13f5cea050e3",
+      "@type" : "sc:Canvas",
+      "label" : "京城日報 1932. 9. 22. 석(7)",
+      "height" : 8244,
+      "width" : 6108,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://84b6237c-27fa-498c-85cd-2ffd668225a2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/iiif/whashin19320922-7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/iiif/whashin19320922-7",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 50354352,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 8244,
+          "width" : 6108
+        },
+        "on" : "http://caa07f58-491b-466f-9646-13f5cea050e3"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "related" : {
+    "@id" : "https://lod.nl.go.kr/page/CNTS-00095803117"
+  }
+}

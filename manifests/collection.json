@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://jisundh.github.io/whashiniiif/manifests/manifest19320922.json",
     "label" : "｢京畿道副業品展覽會｣, 『京城日報』 1932. 9. 22. 석(7)\n\n"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://jisundh.github.io/whashiniiif/manifests/manifest1.json",
+    "label" : "｢京畿道副業品展覽會｣, 『京城日報』 1932. 9. 22. 석(7)\n\n"
   } ]
 }

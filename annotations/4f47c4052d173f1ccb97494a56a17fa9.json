@@ -1,0 +1,191 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Photo",
+      "@type" : "oa:Tag",
+      "chars" : "Photo"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Photo:<span style=\"font-family: Arial; font-size: 10pt;\">19320922경성일보_경기도부업품전람회",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Photo:<span style=\"font-family: Arial; font-size: 10pt;\">19320922경성일보_경기도부업품전람회</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-07-26T23:34:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1753572865527",
+    "dcterms:modified" : "2025-07-26T23:34:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashiniiif/manifests/manifest19320922.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=378,896,1806,1172"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M378.14536,896.18658h902.91349v0h902.91349v586.12569v586.12569h-902.91349h-902.91349v-586.12569z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_76ebe57c-1f5b-4b2a-973b-ecbc4ef38c11\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff9c00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://caa07f58-491b-466f-9646-13f5cea050e3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Text",
+      "@type" : "oa:Tag",
+      "chars" : "Text"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-size: 10pt; font-family: Arial;\" data-sheets-root=\"1\">Text:19320922경성일보_경기도부업품전람회",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-size: 10pt; font-family: Arial;\" data-sheets-root=\"1\">Text:19320922경성일보_경기도부업품전람회</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-07-26T23:33:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1753572839317",
+    "dcterms:modified" : "2025-07-26T23:33:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashiniiif/manifests/manifest19320922.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=95,907,244,1157"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M94.8998,907.36732h122.12475v0h122.12475v578.67186v578.67186h-122.12475h-122.12475v-578.67186z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a08bb0cb-4779-4be6-8ed5-57e3a9641f08\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://caa07f58-491b-466f-9646-13f5cea050e3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Article",
+      "@type" : "oa:Tag",
+      "chars" : "Article"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-size: 10pt; font-family: Arial;\" data-sheets-root=\"1\">19320922경성일보_경기도부업품전람회",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-size: 10pt; font-family: Arial;\" data-sheets-root=\"1\">19320922경성일보_경기도부업품전람회</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-07-26T23:33:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1753572805082",
+    "dcterms:modified" : "2025-07-26T23:33:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashiniiif/manifests/manifest19320922.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=76,870,2138,1210"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M76.26522,870.09817h1068.76122v0h1068.76122v604.76027v604.76027h-1068.76122h-1068.76122v-604.76027z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_37d72bf6-8882-4d6c-b380-9c5f88834bec\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#fc0d0d\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://caa07f58-491b-466f-9646-13f5cea050e3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "DepartmentStore",
+      "@type" : "oa:Tag",
+      "chars" : "DepartmentStore"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-size: 11pt;\" data-sheets-root=\"1\">화신백화점_경성본점_홀(和信百貨店_京城本店_홀)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-size: 11pt;\" data-sheets-root=\"1\">화신백화점_경성본점_홀(和信百貨店_京城本店_홀)</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-07-26T23:36:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1753573013152",
+    "dcterms:modified" : "2025-07-26T23:36:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashiniiif/manifests/manifest19320922.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1099,980,37,56"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1118.07458,1036.08244c0,-12.42305 6.21153,-24.8461 18.63458,-37.26915c0,-10.29159 -8.34298,-18.63458 -18.63458,-18.63458c-10.29159,0 -18.63458,8.34298 -18.63458,18.63458c12.42305,12.42305 18.63458,24.8461 18.63458,37.26915z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_1aed8d95-1c3b-409a-9f09-0811d428a155\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://caa07f58-491b-466f-9646-13f5cea050e3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Event",
+      "@type" : "oa:Tag",
+      "chars" : "Event"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-size: 9pt; font-family: Arial;\" data-sheets-root=\"1\">19320921-25경기도부업품전시즉매회",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-size: 9pt; font-family: Arial;\" data-sheets-root=\"1\">19320921-25경기도부업품전시즉매회</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-07-26T23:38:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1753573080137",
+    "dcterms:modified" : "2025-07-26T23:38:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashiniiif/manifests/manifest19320922.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1472,1025,37,56"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1490.7661,1080.80542c0,-12.42305 6.21153,-24.8461 18.63458,-37.26915c0,-10.29159 -8.34298,-18.63458 -18.63458,-18.63458c-10.29159,0 -18.63458,8.34298 -18.63458,18.63458c12.42305,12.42305 18.63458,24.8461 18.63458,37.26915z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_670a9104-9078-4e57-9a77-1b74bc43b184\" fill-opacity=\"0.14\" fill=\"#ffff00\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://caa07f58-491b-466f-9646-13f5cea050e3"
+    } ]
+  } ],
+  "@id" : "https://jisundh.github.io/whashiniiif/annotations/4f47c4052d173f1ccb97494a56a17fa9.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

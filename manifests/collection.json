@@ -1,0 +1,13 @@
+{
+  "id" : "https://jisundh.github.io/whashiniiif/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in jisundh/whashiniiif project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://jisundh.github.io/whashiniiif/manifests/manifest19320922.json",
+    "label" : "｢京畿道副業品展覽會｣, 『京城日報』 1932. 9. 22. 석(7)\n\n"
+  } ]
+}
